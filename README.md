@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Web Development, Android Applications and a good Github Page!
-- 🌱 I’m currently learning Jetpack Compose with Kotlin
+- 🌱 I’m currently learning Jetpack Compose with Kotlin language
 - 👯 I’m looking to collaborate on an application that could solve some of the daily problems people have!
 - 🤔 Check out my secondhand shopping website at www.rego.live!
 - 💬 Ask me about coding, fitness or anything else!
