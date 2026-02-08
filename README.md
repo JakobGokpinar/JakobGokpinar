@@ -2,7 +2,7 @@
 
 CS student at the University of Oslo studying Programming and System Architecture. I enjoy building full-stack applications from scratch and turning ideas into products that actually work.
 
-🏆 National winner of Bekk Labyrinten 2025 
+🏆 National winner of Bekk Labyrinten 2025
 ☁️ Microsoft Azure AI Fundamentals certified (AI-900)  
 🌐 Portfolio: [jakobg-tech.vercel.app](https://jakobg-tech.vercel.app)
 
@@ -44,12 +44,18 @@ CS student at the University of Oslo studying Programming and System Architectur
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JakobGokpinar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
 
-📌 Featured Projects
-ProjectDescriptionTechChatAppModernized desktop messaging app with Spring Boot API and JavaFX clientJava, Spring Boot, PostgreSQL, JWTRego MarketplaceFull-stack marketplace for second-hand itemsReact, Node.js, MongoDB, AWSPortfolioPersonal portfolio built with Next.js and TailwindNext.js, React, Tailwind
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[ChatApp](https://github.com/JakobGokpinar/Java-ChatApp)** | Modernized desktop messaging app with Spring Boot API and JavaFX client | Java, Spring Boot, PostgreSQL, JWT |
+| **[Rego Marketplace](https://github.com/JakobGokpinar/Rego-frontend)** | Full-stack marketplace for second-hand items | React, Node.js, MongoDB, AWS |
+| **[Portfolio](https://jakobg-tech.vercel.app)** | Personal portfolio built with Next.js and Tailwind | Next.js, React, Tailwind |
 
 ---
 
