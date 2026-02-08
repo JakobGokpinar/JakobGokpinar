@@ -2,7 +2,7 @@
 
 CS student at the University of Oslo studying Programming and System Architecture. I enjoy building full-stack applications from scratch and turning ideas into products that actually work.
 
-🏆 National winner of Bekk Labyrinten 2025
+🏆 National winner of Bekk Labyrinten 2025  
 ☁️ Microsoft Azure AI Fundamentals certified (AI-900)  
 🌐 Portfolio: [jakobg-tech.vercel.app](https://jakobg-tech.vercel.app)
 
