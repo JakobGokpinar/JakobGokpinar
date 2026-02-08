@@ -43,7 +43,7 @@ CS student at the University of Oslo studying Programming and System Architectur
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=JakobGokpinar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
