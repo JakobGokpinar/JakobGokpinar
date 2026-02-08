@@ -2,7 +2,7 @@
 
 CS student at the University of Oslo studying Programming and System Architecture. I enjoy building full-stack applications from scratch and turning ideas into products that actually work.
 
-🏆 National winner of [Bekk Labyrinten 2025](https://www.bekk.no/labyrinten)  
+🏆 National winner of Bekk Labyrinten 2025 
 ☁️ Microsoft Azure AI Fundamentals certified (AI-900)  
 🌐 Portfolio: [jakobg-tech.vercel.app](https://jakobg-tech.vercel.app)
 
@@ -44,29 +44,5 @@ CS student at the University of Oslo studying Programming and System Architectur
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JakobGokpinar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[ChatApp](https://github.com/JakobGokpinar/Java-ChatApp)** | Modernized desktop messaging app with Spring Boot API and JavaFX client | Java, Spring Boot, PostgreSQL, JWT |
-| **[Rego Marketplace](https://github.com/JakobGokpinar/Rego-frontend)** | Full-stack marketplace for second-hand items | React, Node.js, MongoDB, AWS |
-| **[Portfolio](https://jakobg-tech.vercel.app)** | Personal portfolio built with Next.js and Tailwind | Next.js, React, Tailwind |
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jakob-gokpinar-646851238/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://jakobg-tech.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:jakobgokpinar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
