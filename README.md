@@ -44,5 +44,23 @@ CS student at the University of Oslo studying Programming and System Architectur
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JakobGokpinar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
+
+---
+
+📌 Featured Projects
+ProjectDescriptionTechChatAppModernized desktop messaging app with Spring Boot API and JavaFX clientJava, Spring Boot, PostgreSQL, JWTRego MarketplaceFull-stack marketplace for second-hand itemsReact, Node.js, MongoDB, AWSPortfolioPersonal portfolio built with Next.js and TailwindNext.js, React, Tailwind
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jakob-gokpinar-646851238/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jakobg-tech.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:jakobgokpinar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
