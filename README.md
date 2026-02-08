@@ -44,7 +44,7 @@ CS student at the University of Oslo studying Programming and System Architectur
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=JakobGokpinar&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JakobGokpinar&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
@@ -60,13 +60,13 @@ CS student at the University of Oslo studying Programming and System Architectur
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jakob-gokpinar-646851238/">
+  <a href="https://www.linkedin.com/in/jakob-gokpinar-646851238/" style="text-decoration:none">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://jakobg-tech.vercel.app">
+  <a href="https://jakobg-tech.vercel.app" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:jakobgokpinar@gmail.com">
+  <a href="mailto:jakobgokpinar@gmail.com" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
