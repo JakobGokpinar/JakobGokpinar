@@ -53,7 +53,7 @@ CS student at the University of Oslo studying Programming and System Architectur
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[ChatApp](https://github.com/JakobGokpinar/Java-ChatApp)** | Modernized desktop messaging app with Spring Boot API and JavaFX client | Java, Spring Boot, PostgreSQL, JWT |
-| **[Rego Marketplace](https://github.com/JakobGokpinar/Rego-frontend)** | Full-stack marketplace for second-hand items | React, Node.js, MongoDB, AWS |
+| **[Rego Marketplace](https://github.com/JakobGokpinar/mern-marketplace)** | Full-stack marketplace for second-hand items | React, Node.js, MongoDB, AWS |
 | **[Portfolio](https://jakobg-tech.vercel.app)** | Personal portfolio built with Next.js and Tailwind | Next.js, React, Tailwind |
 
 ---
